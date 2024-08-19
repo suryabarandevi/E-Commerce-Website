@@ -1,0 +1,88 @@
+.loginsignup{
+    width: 100%;
+    height: 80vh;
+    background: rgb(247, 224, 183);
+    padding-top: 100px;
+    display: flex;
+    /* padding-left: 500px;
+    padding-right: 100px;
+     */
+     padding-bottom: 100px;
+     /* margin: auto; */
+    
+}
+.loginsignup-container{
+    width: 500px;
+    height: 300px;
+    background: white;
+    padding: 40px 6px;
+    margin:auto;
+    /* padding-left: 60px; */
+    padding-bottom: 300px;
+     
+}
+.loginsignup-container h1{
+    margin: 20px 0px;
+    padding-left: 200px;
+}
+.loginsignup-fields{
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+    margin-top: 30px;
+    padding-left: 20px;
+
+}
+.loginsignup-fields input{
+
+    height: 50px;
+    width: 90%;
+    padding-left: 20px;
+    border: 1px solid rgb(151, 148, 148);
+    outline: none;
+    color: gray;
+    font-size: 18px;
+    border-radius: 25px;
+}
+.loginsignup-container button{
+    /* width: 500px;
+    height: 65px; */
+    height: 50px;
+    
+    width: 90%;
+    /* padding-left: 40px; */
+    color: azure;
+    background: rgb(245, 171, 103);
+    margin-top: 30px;
+    margin-left: 25px;
+    border: none;
+    font-size: 24px;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 25px;
+
+}
+.loginsignup-login{
+    margin-top: 20px;
+    color: rgb(50, 50, 50);
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 30px;
+    
+
+}
+.loginsignup-login span{
+    color: red;
+    font-weight: 600;
+}
+.loginsignup-agree{
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 30px;
+    gap: 20px;
+    color: gray;
+    font-size: 18px;
+    font-weight: 500;
+
+}

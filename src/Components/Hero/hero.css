@@ -1,0 +1,71 @@
+.hero{
+    height: 100vh;
+    background: linear-gradient(180deg, white,rgb(251, 197, 153) 60%);
+    display: flex;
+}
+.hero-left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    padding-left: 180px;
+    line-height: 1.1;
+}
+.hero-left h2{
+    color: black;
+    font-size: 26px;
+    font-weight: 600;
+}
+.hero-left p{
+    color: black;
+    font-size: 100px;
+    font-weight: 600;
+
+
+}
+.hero-hand-icon{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+}
+.hero-hand-icon img{
+    margin-top: 30px;
+    width:105px;
+}
+.hero-latest-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    height: 50px;
+    width: 300px;
+    border-radius: 75px;
+    margin-top: 3px;
+    background: red;
+    color:white;
+    font-size : 22px;
+    font-weight: 500;
+
+
+
+}
+.hero-right{
+    flex:1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:auto;
+    height: -50px;
+    width: -30px;
+
+}
+/* .hero-right.jiraya{
+    height:500px;
+    width: 500px;
+    margin: auto;
+} */
+.hero-right.jiraya{
+    max-width: 50%;
+    max-height: 50%;
+}
