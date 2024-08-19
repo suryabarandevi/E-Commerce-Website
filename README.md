@@ -8,11 +8,7 @@ This is a fully responsive eCommerce website built using React JS. The website i
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Features
 
