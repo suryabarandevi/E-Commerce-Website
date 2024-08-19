@@ -1,7 +1,8 @@
 # E-Commerce Website
 
-This is a fully responsive eCommerce website built using React JS. The website includes key features such as product listings, a shopping cart.
-![Banner]([https://via.placeholder.com/1000x200.png?text=E-Commerce+Website](https://github.com/suryabarandevi/E-Commerce-Website/blob/main/Screenshots/Home.PNG))
+This is a fully responsive eCommerce website built using React JS. The website includes key features such as product listings and a shopping cart.
+
+![Banner](https://github.com/suryabarandevi/E-Commerce-Website/blob/main/Screenshots/Home.PNG)
 
 ## Table of Contents
 
@@ -18,12 +19,14 @@ This is a fully responsive eCommerce website built using React JS. The website i
 - **Home Page:**
   - Trending products display.
   - Offer banner and newsletter subscription form.
-    ![Home Page]([https://via.placeholder.com/800x400.png?text=Home+Page](https://github.com/suryabarandevi/E-Commerce-Website/blob/main/Screenshots/Home.PNG))
+  
+    ![Home Page](https://github.com/suryabarandevi/E-Commerce-Website/blob/main/Screenshots/Home.PNG)
   
 - **Product Pages:**
   - Separate pages for Men's, Women's, and Kids' categories.
   - Product listings with images, prices, and brief descriptions.
-   ![Product Page]([https://via.placeholder.com/800x400.png?text=Product+Page](https://github.com/suryabarandevi/E-Commerce-Website/blob/main/Screenshots/products.PNG))
+  
+    ![Product Page](https://github.com/suryabarandevi/E-Commerce-Website/blob/main/Screenshots/products.PNG)
   
 - **Single Product Page:**
   - Product image gallery, price, and detailed description.
@@ -32,8 +35,9 @@ This is a fully responsive eCommerce website built using React JS. The website i
 - **Shopping Cart:**
   - Displays products added to the cart.
   - Users can manage items before checkout.
-     ![Shopping Cart]([https://via.placeholder.com/800x400.png?text=Shopping+Cart](https://github.com/suryabarandevi/E-Commerce-Website/blob/main/Screenshots/products.PNG))
   
+    ![Shopping Cart](https://github.com/suryabarandevi/E-Commerce-Website/blob/main/Screenshots/products.PNG)
+
 
 
 ## Installation
