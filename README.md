@@ -20,7 +20,7 @@ This is a fully responsive eCommerce website built using React JS. The website i
   - Trending products display.
   - Offer banner and newsletter subscription form.
   
-    ![Home Page](https://github.com/suryabarandevi/E-Commerce-Website/blob/main/Screenshots/Home.PNG)
+    ![Home Page](https://github.com/suryabarandevi/E-Commerce-Website/blob/main/Screenshots/new_collections.PNG)
   
 - **Product Pages:**
   - Separate pages for Men's, Women's, and Kids' categories.
@@ -36,7 +36,7 @@ This is a fully responsive eCommerce website built using React JS. The website i
   - Displays products added to the cart.
   - Users can manage items before checkout.
   
-    ![Shopping Cart](https://github.com/suryabarandevi/E-Commerce-Website/blob/main/Screenshots/products.PNG)
+    ![Shopping Cart](https://github.com/suryabarandevi/E-Commerce-Website/blob/main/Screenshots/kids.PNG)
 
 
 
