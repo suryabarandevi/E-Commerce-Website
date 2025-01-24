@@ -38,11 +38,8 @@ This is a fully responsive eCommerce website built using React JS. The website i
 
 ## Installation
 
-1. **Clone the Repository:**
-   git clone " "
-   cd ecommerce-website
-2. **Install Dependencies:**
+1. **Install Dependencies:**
    npm install
-3. **Start the Development Server:**
+2. **Start the Development Server:**
    npm start
 
